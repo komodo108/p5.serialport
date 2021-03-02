@@ -20,7 +20,7 @@
     "arduino"
   ],
   "dependencies": {
-    "serialport": "^7.1.5",
+    "serialport": "^9.0.7",
     "ws": "^7.0"
   },
   "license": "GPL",
